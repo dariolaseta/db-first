@@ -1,0 +1,9 @@
+
+model             ---   varchar(64)   ---           NULL
+color             ---   varchar(30)   ---           NOTNULL
+speed             ---   float(2, 1)   ---           NOTNULL
+km                ---   float(5, 3)   ---           NOTNULL
+price             ---   float(10, 2)  ---           NOTNULL
+brand             ---   varchar(40)   ---           NULL
+seat              ---   tinyint       ---           NULL
+rating            ---   tinyint       ---           NOTNULL
